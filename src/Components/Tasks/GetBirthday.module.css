@@ -1,0 +1,60 @@
+.inputsAndButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: #fafafa2d;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+  border-radius: 100px;
+  margin-top: 90px;
+  font-family: "Poppins", sans-serif;
+  height: 70px;
+  width: 445px;
+  position: absolute;
+  left: 550px;
+}
+
+.inputs {
+  display: inline-block;
+  border: none;
+  width: 120px;
+  height: 46px;
+  padding-left: 17px;
+  border-radius: 100px;
+  font-size: 16px;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+  background-color: #fafaf9;
+  transition: all 0.4s;
+}
+
+.inputs:focus {
+  outline: none;
+  transform: translateY(-2px);
+}
+
+.day-input {
+  padding-left: 22px;
+}
+
+.get-button {
+  display: inline-block;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 14.5px 20px;
+  background-color: #be185d;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+  color: #fff;
+  border-radius: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.get-button:hover {
+  background-color: #db2777;
+}
+
+.get-button:disabled {
+  cursor: not-allowed;
+  background-color: #db2778fd;
+}

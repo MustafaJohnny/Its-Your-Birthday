@@ -1,0 +1,25 @@
+.big-text {
+  font-weight: bold;
+  font-size: 6rem;
+  line-height: 1;
+  margin: 1rem 2rem;
+}
+
+.countdown-el {
+  text-align: center;
+}
+
+.countdown-el span {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.seconds-c {
+  display: inline-block;
+  width: 150px;
+  margin-left: 0px;
+}
+
+.days-c {
+  margin-right: -20px;
+}

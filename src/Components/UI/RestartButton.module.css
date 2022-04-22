@@ -1,0 +1,25 @@
+.start-button {
+  left: 30px;
+  top: 30px;
+  position: absolute;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+  padding: 16px 22px;
+  border: none;
+  border-radius: 100px;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+  background-color: #be185d;
+  transition: all 0.4s;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+
+.start-button:hover {
+  background-color: #db2777;
+}
+
+.start-button:focus {
+  transform: translateY(-3px);
+}

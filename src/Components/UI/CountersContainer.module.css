@@ -1,0 +1,9 @@
+/* Counters Elements */
+.countdown-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 80px;
+  color: #262626;
+}
