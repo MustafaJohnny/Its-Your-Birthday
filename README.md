@@ -10,7 +10,7 @@ It's Your Birthday is a simple and great React Application. This App will allow 
 
 ## Links
 
-- Live Site URL:
+- Live Site URL: https://its-your-birthday-mustafa.netlify.app/
 
 ## Built with
 
