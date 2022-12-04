@@ -1,4 +1,4 @@
-# It's Your Birthday! - React Project
+# It's Your Birthday! - React Practical Project
 
 ## Overview
 
